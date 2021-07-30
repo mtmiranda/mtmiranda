@@ -13,7 +13,7 @@
 
 Me chamo Matheus Miranda, comumente chamado de 'Miranda' mesmo hehehe, sou desenvolvedor front-end, graduado em Sistemas de Informação :computer:, buscando aprender cada vez mais sobre esse universo fantástico que é a tecnologia.
 
-Minha stack atual é:
+Utilizo tecnologias como:
 
 <div float="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
