@@ -1,14 +1,5 @@
 ![image](https://i.imgur.com/uomvYgp.png)
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtmiranda&hide=html&layout=compact&theme=cobalt&title_color=fff" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=mtmiranda&theme=cobalt&title_color=fff"/></td>
-    </tr>   
-</table>
-</center>  
-
 ### Olá pessoal 👋
 
 Me chamo Matheus Miranda, comumente chamado de 'Miranda' mesmo hehehe, sou desenvolvedor front-end, graduado em Sistemas de Informação :computer:, buscando aprender cada vez mais sobre esse universo fantástico que é a tecnologia.
