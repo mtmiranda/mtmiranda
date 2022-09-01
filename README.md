@@ -1,4 +1,4 @@
-![image](https://i.imgur.com/uomvYgp.png)
+<img src="https://i.imgur.com/Q82Utvy.gif" width="100%"/>
 
 ### Olá pessoal 👋
 
@@ -14,15 +14,15 @@ Utilizo tecnologias como:
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img src="ttps://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 
 ### Alguns Hobbies meus :bookmark_tabs:
 
+- :headphones: Ouvir música 
 - :video_game: Jogar games 
 - :books: Ler livros e quadrinhos
-- :headphones: Ouvir música 
 - :video_camera: Assistir filmes
 - :guitar: Instrumentos musicais
 - :runner: Praticar exercícios
