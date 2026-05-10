@@ -1,47 +1,50 @@
 <img src="https://i.imgur.com/Q82Utvy.gif" width="100%"/>
 
-### Olá pessoal 👋
+# Hi, I'm Matheus Miranda 👋
 
-Me chamo Matheus Miranda, comumente chamado de 'Miranda' mesmo hehehe, sou desenvolvedor front-end, graduado em Sistemas de Informação :computer:, buscando aprender cada vez mais sobre esse universo fantástico que é a tecnologia.
+Front-End & Mobile Developer with experience building scalable web and mobile applications using React.js, Next.js and React Native.
 
-Utilizo tecnologias como:
+Currently focused on front-end architecture, user experience and scalable product development for financial and operational platforms.
 
-<div float="left">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img src="ttps://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+I enjoy building products that solve real problems, creating reusable interfaces and contributing to collaborative and product-oriented engineering environments.
+
+## Tech Stack
+
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-### Alguns Hobbies meus :bookmark_tabs:
+## Current Focus
 
-- :headphones: Ouvir música 
-- :video_game: Jogar games 
-- :books: Ler livros e quadrinhos
-- :video_camera: Assistir filmes
-- :guitar: Instrumentos musicais
-- :runner: Praticar exercícios
+- Building scalable web and mobile applications
+- Front-end architecture and reusable components
+- User experience and performance optimization
+- Product-oriented development
+- React.js, Next.js and React Native ecosystems
 
-### Midias sociais :mag:  
+## Contact
 
-<div float="left">
-    <a href="https://www.linkedin.com/in/matheusmdsm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://codepen.io/mtmiranda"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
-    <a href="mailto:mattheus_miranda@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a>
-    <a href="https://www.instagram.com/matheusmdsm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></img></a> 
+<div>
+    <a href="https://www.linkedin.com/in/matheusmdsm/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:mattheus_miranda@hotmail.com">
+        <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+    </a>
+    <a href="https://codepen.io/mtmiranda">
+        <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+    </a>
 </div>
 
-<!-- 
-<a href="mailto:mattheus_miranda@hotmail.com"><img src="https://github.com/mtmiranda/mtmiranda/blob/main/images/message.png width="16"></img></a> [Email](mailto:mattheus_miranda@hotmail.com)  
+---
 
-<a href="https://codepen.io/mtmiranda"><img src="https://github.com/mtmiranda/mtmiranda/blob/main/images/codepen.png" width="16"></img></a> [CodePen](https://codepen.io/mtmiranda) 
-
-<a href="https://www.instagram.com/matheusmdsm/"><img src="https://github.com/mtmiranda/mtmiranda/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/matheusmdsm/)  
-
-<a href=""><img src="https://github.com/mtmiranda/mtmiranda/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn]() -->
-
+📍 Rio de Janeiro, Brazil  
+🌎 Open to Remote Opportunities
